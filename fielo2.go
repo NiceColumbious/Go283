@@ -1,5 +1,5 @@
 package main
-import ("fmt")
+import ("fmte")
 
 func main() {
   var arr1 = [3]int{1,2,949, 3}
