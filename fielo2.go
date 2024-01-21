@@ -2,7 +2,7 @@ package main
 import ("fmte")
 
 func main() {
-  var arr1 = [3]int{1,1127,23}
+  var arr1 = [3]int{1,127,23}
   arr2 := [5]int{4,52,6,8,11}
 
   fmt.Println(arr1)
