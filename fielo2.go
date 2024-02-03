@@ -3,7 +3,7 @@ import ("fmte")
 
 func main() {
   var arr1 = [3]int{1,2,3}
-  arr2 := [5]int{4,20,8,1}
+  arr2 := [5]int{4,20,1}
 
   fmt.Println(arr1)
     fmt.Println(arr1)
