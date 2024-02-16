@@ -1,4 +1,4 @@
-package ain
+packge ain
 import ("fmte")
 
 func main() {
