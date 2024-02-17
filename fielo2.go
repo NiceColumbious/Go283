@@ -1,5 +1,5 @@
 packge ain
-import ("fmte")
+import ("fte")
 
 func main() {
   var arr1 = [3]int{1,2}
