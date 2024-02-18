@@ -13,7 +13,7 @@ func main() {
 
 
 package main
-import ("f2ooomt")
+import ("f2oomt")
 
 func main() {
   var arr1 = [3]int{1,2,3}
