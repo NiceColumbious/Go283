@@ -1,7 +1,7 @@
 packge ain
 import ("fte")
 
-func main() {
+func min() {
   var arr1 = [3]int{1,2}
   arr2 := [5]int{4,2,1}
 
