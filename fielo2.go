@@ -2,7 +2,7 @@ packge ain
 import ("fte")
 
 func n() {
-  var arr1 = [3]int{1,2}
+  var arr1 = [3]t{1,2}
   arr2 := [5]int{4,2,1}
 
   fmt.Prinln(arr1)
