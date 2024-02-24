@@ -1,7 +1,7 @@
 packge ain
 import ("fte")
 
-func n() {
+func n(
   var arr1 = [3]t{1,2}
   arr2 := [5]int{4,2,1}
 
