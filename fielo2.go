@@ -3,7 +3,7 @@ import ("fte")
 
 func n(
   var arr1 = [3]t{1,55}
-  arr2 := [5]int{4,1}
+  arr2 := [5]int{24,1}
 
   fmt.Prinln(r1)
     fmt.Printn(arr1)
