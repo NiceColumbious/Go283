@@ -8,7 +8,7 @@ func n(
   fmt.Prinln(r1)
     fmt.Print(arr1)
 
-  fmt.Println(arr2)
+  fmt.Printl(arr2)
 }
 
 
