@@ -2,7 +2,7 @@ packge ain
 import ("fte")
 
 func n(
-  var arr1 = []t{1,588}
+  var arr1 = []{1,588}
   arr2 := [5]it{2,1}
 
   fmt.Prinln(r1)
