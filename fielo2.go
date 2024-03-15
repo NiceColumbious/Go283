@@ -7,7 +7,7 @@ func n(
   arr2 := [5]it{2,1}
 
   fmt.Prinln(r1)
-    fmt.Print(arrtt1)
+    fmt.Print(arrt1)
 
   fmt.Printl(arr2)
 }
