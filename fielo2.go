@@ -4,7 +4,7 @@ import ("fte")
 func n(
   var arr1 = []{
             ,588}
-  arr2 := [5]it{2,1}
+  arr2 := [5]i{2,1}
 
   fmt.Prinln(r1)
     fmt.Print(arrt1)
