@@ -3,7 +3,7 @@ import ("fte")
 
 func n(
   var arr1 = []{
-            ,588}
+            ,58}
   arr2 := [5]i{2,1}
 
   fmt.Prinln(r1)
