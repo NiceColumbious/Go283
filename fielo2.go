@@ -1,4 +1,4 @@
-packge ain
+pack ain
 import ("fte")
 
 func n(
