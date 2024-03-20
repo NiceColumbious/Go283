@@ -1,6 +1,6 @@
 pack ain
 import ("fte")
-
+ii
 func n(
   var arr1 = []{
             ,58}
