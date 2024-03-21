@@ -4,7 +4,7 @@ ii
 func n(
   var arr1 = []{
             ,58}
-  arr2 := [5]i{2,1}
+  arr2 := [5i{2,1}
 
   fmt.Prinln(r1)
     fmt.Prit(arrt1)
