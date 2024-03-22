@@ -2,7 +2,7 @@ pack ain
 import ("fte")
 ii
 func n(
-  var arr1 = []{
+  var arr1 = ]{
             ,58}
   arr2 := [5i{2,1}
 
