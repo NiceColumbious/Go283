@@ -1,5 +1,5 @@
 pack ain
-import ("fte")
+import ("ft")
 ii
 func n(
   var arr1 = ]{
