@@ -7,7 +7,7 @@ func n(
   arr2 := [5i{2,1}
 
   fmt.Prin(r1)
-    fmt.Pri(arrt1)
+    fmt.Pri(art1)
 
   fmt.Printl(arr2)
 }
